@@ -1,0 +1,10 @@
+/Users/zachspringer/source/codeworks/csharp-test-webapi-withdbsetup/bin/Debug/netcoreapp2.0/csharp-test-webapi-withdbsetup.deps.json
+/Users/zachspringer/source/codeworks/csharp-test-webapi-withdbsetup/bin/Debug/netcoreapp2.0/csharp-test-webapi-withdbsetup.runtimeconfig.json
+/Users/zachspringer/source/codeworks/csharp-test-webapi-withdbsetup/bin/Debug/netcoreapp2.0/csharp-test-webapi-withdbsetup.runtimeconfig.dev.json
+/Users/zachspringer/source/codeworks/csharp-test-webapi-withdbsetup/bin/Debug/netcoreapp2.0/csharp-test-webapi-withdbsetup.dll
+/Users/zachspringer/source/codeworks/csharp-test-webapi-withdbsetup/bin/Debug/netcoreapp2.0/csharp-test-webapi-withdbsetup.pdb
+/Users/zachspringer/source/codeworks/csharp-test-webapi-withdbsetup/obj/Debug/netcoreapp2.0/csharp-test-webapi-withdbsetup.csproj.CoreCompileInputs.cache
+/Users/zachspringer/source/codeworks/csharp-test-webapi-withdbsetup/obj/Debug/netcoreapp2.0/csharp-test-webapi-withdbsetup.AssemblyInfoInputs.cache
+/Users/zachspringer/source/codeworks/csharp-test-webapi-withdbsetup/obj/Debug/netcoreapp2.0/csharp-test-webapi-withdbsetup.AssemblyInfo.cs
+/Users/zachspringer/source/codeworks/csharp-test-webapi-withdbsetup/obj/Debug/netcoreapp2.0/csharp-test-webapi-withdbsetup.dll
+/Users/zachspringer/source/codeworks/csharp-test-webapi-withdbsetup/obj/Debug/netcoreapp2.0/csharp-test-webapi-withdbsetup.pdb
